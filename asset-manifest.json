@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/emendi/static/css/main.a906e147.css",
+    "main.js": "/emendi/static/js/main.e277b6d7.js",
+    "static/js/453.fa956e0d.chunk.js": "/emendi/static/js/453.fa956e0d.chunk.js",
+    "static/media/logo.svg": "/emendi/static/media/logo.cec8ac4431925f3210d7e1fe3be026e1.svg",
+    "index.html": "/emendi/index.html",
+    "main.a906e147.css.map": "/emendi/static/css/main.a906e147.css.map",
+    "main.e277b6d7.js.map": "/emendi/static/js/main.e277b6d7.js.map",
+    "453.fa956e0d.chunk.js.map": "/emendi/static/js/453.fa956e0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a906e147.css",
+    "static/js/main.e277b6d7.js"
+  ]
+}
