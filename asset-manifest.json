@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/emendi/static/css/main.3c8e8597.css",
-    "main.js": "/emendi/static/js/main.5d7d8855.js",
+    "main.css": "/emendi/static/css/main.61a8e80e.css",
+    "main.js": "/emendi/static/js/main.428a15e3.js",
     "static/js/453.fa956e0d.chunk.js": "/emendi/static/js/453.fa956e0d.chunk.js",
-    "static/media/logo.svg": "/emendi/static/media/logo.ca3566b14daf6d81681034aa268c8e20.svg",
+    "static/media/logo.svg": "/emendi/static/media/logo.1cb658d8fd258487308058d1c5fc2bb7.svg",
     "index.html": "/emendi/index.html",
-    "main.3c8e8597.css.map": "/emendi/static/css/main.3c8e8597.css.map",
-    "main.5d7d8855.js.map": "/emendi/static/js/main.5d7d8855.js.map",
+    "main.61a8e80e.css.map": "/emendi/static/css/main.61a8e80e.css.map",
+    "main.428a15e3.js.map": "/emendi/static/js/main.428a15e3.js.map",
     "453.fa956e0d.chunk.js.map": "/emendi/static/js/453.fa956e0d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c8e8597.css",
-    "static/js/main.5d7d8855.js"
+    "static/css/main.61a8e80e.css",
+    "static/js/main.428a15e3.js"
   ]
 }
