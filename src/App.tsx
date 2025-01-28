@@ -8,7 +8,7 @@ function App() {
       <div className="main-body">
         <img src={logo} className="main-logo" alt="Emendi Tech &amp; Creative" />
         <p className="lexend-giga-bold">
-          A boutique agency serving artists, nonprofits,<br/>startups and small businesses.
+          A boutique agency serving artists, nonprofits, startups and small businesses.
         </p>
         <a
           className="main-link lexend-giga-bold"
