@@ -1,38 +1,42 @@
-.App {
-  text-align: center;
+
+.main-logo {
+  height: 60vmin;
+  margin-top: 5vh;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-/* 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-} */
-
-.App-header {
-  background-color: #282c34;
+.main-body {
+  background-color: #3a0247;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
+  align-items: center;  
+  /* justify-content: center; */
+  text-align: center;
   font-size: calc(10px + 1vmin);
   color: white;
 }
 
-.App-link {
-  color: #5dc5be;
+.main-link {
+  color: #5cffb0;
+  animation: colorTransition 2s infinite alternate;
 } 
-/* 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+
+/* <uniquifier>: Use a unique and descriptive class name
+<weight>: Use a value from 100 to 900
+ */
+.lexend-giga-bold {
+  font-family: "Lexend Giga", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+
+@keyframes colorTransition {
+  0% {
+    color: #5cffb0;
   }
-  to {
-    transform: rotate(360deg);
+  100% {
+    color: #fff;
   }
-} */
+} 

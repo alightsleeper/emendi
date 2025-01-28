@@ -4,21 +4,21 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          A boutique agency serving artists, non-profits, startups and small businesses.
+    <>
+      <div className="main-body">
+        <img src={logo} className="main-logo" alt="Emendi Tech &amp; Creative" />
+        <p className="lexend-giga-bold">
+          A boutique agency serving artists, nonprofits,<br/>startups and small businesses.
         </p>
         <a
-          className="App-link"
+          className="main-link lexend-giga-bold"
           href="mailto:alightsleeper@gmail.com?subject=Emendi%20Inquiry"
           rel="noopener noreferrer"
         >
           Contact Us
         </a>
-      </header>
-    </div>
+      </div>
+    </>
   );
 }
 
