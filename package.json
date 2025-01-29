@@ -1,7 +1,7 @@
 {
   "name": "emendi",
   "version": "0.1.0",
-  "homepage": "https://alightsleeper.github.io/emendi",
+  "homepage": "https://emendico.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
